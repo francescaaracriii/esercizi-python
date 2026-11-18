@@ -1,0 +1,1 @@
+print("Il mio progetto Python")
